@@ -2,6 +2,9 @@
 
 Autodidact with private projects experience. I would like to master React and Gatsby.js and gain knowledge towards junior frontend developer. I have done many courses, mainly towards frontend developer, especially (react, gatsby.js, css styling, js). I also broaden knowledge from documentation, youtube, udemy, articles on medium and industry blogs. I also attend meetings in the Gliwice and Katowice regions such as Gorrion Unplugged and meet.js.
 
+<img align="right" alt="Eryk Słociński illustration" width="200px" src="https://github.com/erq-programmer/erq-programmer/blob/master/persona.png" />
+
+
 - 🔭 I’m currently working on XNotes App 
 - 🌱 I’m currently learning typescript
 - :mag: I’m currently looking for a job as junior frontend developer :satellite:
@@ -27,6 +30,7 @@ Autodidact with private projects experience. I would like to master React and Ga
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Jest" width="26px" src="https://api.iconify.design/logos-jest.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
