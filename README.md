@@ -5,7 +5,7 @@ Autodidact with private projects experience. I would like to master React and Ga
 <img align="right" alt="Eryk Słociński illustration" width="200px" src="https://github.com/erq-programmer/erq-programmer/blob/master/persona.png" />
 
 
-- 🔭 I’m currently working on Nazar Kebab and Money Watch
+- 🔭 I’m currently working on ecommerce JAM stack application
 - 🌱 I’m currently learning typescript
 - :mag: I’m currently looking for a job as junior frontend developer :satellite:
 - :bicyclist: I like cycling
