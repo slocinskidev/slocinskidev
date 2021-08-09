@@ -2,7 +2,7 @@
 
 Autodidact with private projects experience. I would like to master React and Gatsby.js and gain knowledge towards junior frontend developer. I have done many courses, mainly towards frontend developer, especially (react, gatsby.js, css styling, js). I also broaden knowledge from documentation, youtube, udemy, articles on medium and industry blogs. I also attend meetings in the Gliwice and Katowice regions such as Gorrion Unplugged and meet.js.
 
-<img align="right" alt="Eryk Słociński illustration" width="200px" src="https://github.com/erq-programmer/erq-programmer/blob/master/persona.png" />
+<img align="right" alt="Eryk Słociński illustration" width="200px" src="https://github.com/slocinskidev/slocinskidev/blob/master/persona.png" />
 
 
 - 🔭 I’m currently working on Catering offer list with Cart
@@ -38,6 +38,6 @@ Autodidact with private projects experience. I would like to master React and Ga
 
 ---
 
-[twitter]: https://twitter.com/islocinski
+[twitter]: https://twitter.com/slocinskidev
 [instagram]: https://www.instagram.com/erykslocinski
 [linkedin]: https://www.linkedin.com/in/erykslocinski/
