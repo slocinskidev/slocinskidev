@@ -5,8 +5,8 @@ Autodidact with private projects experience. I would like to master React and Ga
 <img align="right" alt="Eryk Słociński illustration" width="200px" src="https://github.com/slocinskidev/slocinskidev/blob/master/persona.png" />
 
 
-- 🔭 I’m currently working on Woocommerce shop with gatsby.js
-- 🌱 I’m currently mastering Typescript
+- 🔭 I’m currently working on dansyl webpage (gatsby + contentful + tailwind css)
+- 🌱 I’m currently learning Next.js
 - :bicyclist: I like cycling
 - ⚡ Fun fact: I have two different eye colors
 
